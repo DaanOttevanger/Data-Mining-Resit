@@ -1,0 +1,13 @@
+dataset,file,original_label,converted_label,target
+original_fake_reviews_dataset,fake_reviews_dataset.csv,CG,fake,1
+original_fake_reviews_dataset,fake_reviews_dataset.csv,OR,real,0
+food_reviews,Food_Reviews.csv,0,real,0
+food_reviews,Food_Reviews.csv,1,fake,1
+labelled_yelp_dataset,Labelled_Yelp_Dataset.csv,-1,fake,1
+labelled_yelp_dataset,Labelled_Yelp_Dataset.csv,1,real,0
+restaurant_reviews,Restaurant_Reviews.csv,0,real,0
+restaurant_reviews,Restaurant_Reviews.csv,1,fake,1
+restaurant_reviews_anonymized,restaurant_reviews_anonymized.csv,0,fake,1
+restaurant_reviews_anonymized,restaurant_reviews_anonymized.csv,1,real,0
+reviews_dataset_excel,reviews_dataset.xlsx,0,real,0
+reviews_dataset_excel,reviews_dataset.xlsx,1,fake,1

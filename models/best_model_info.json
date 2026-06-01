@@ -1,0 +1,16 @@
+{
+    "best_model": "Logistic Regression",
+    "target_mapping": {
+        "0": "real",
+        "1": "fake"
+    },
+    "best_params": "Fixed parameters, no GridSearchCV used",
+    "test_scores": {
+        "model": "Logistic Regression",
+        "accuracy": 0.7402837265166451,
+        "precision_fake": 0.3666585695943367,
+        "recall_fake": 0.6934891047519034,
+        "f1_fake": 0.4796949129457699,
+        "best_cv_f1": NaN
+    }
+}
